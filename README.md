@@ -1,5 +1,8 @@
 # Dermstore-App
 
+Deployed Link :-
+https://dancing-puppy-577383.netlify.app/
+
  Dermstore E-Commerce App
  
 This project is a JavaScript-powered frontend for an e-commerce website specializing in beauty products. It provides an interactive shopping experience with key functionalities such as product carousels, image sliders, a shopping cart with local storage, a signup modal, and quantity selection.
